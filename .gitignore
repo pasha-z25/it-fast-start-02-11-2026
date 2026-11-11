@@ -1,0 +1,13 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# System Files
+Thumbs.db
+.DS_Store
+__MACOSX
+
+# IDE and editors
+.idea
+.vscode
+
+# dotenv environment variables file
+.env
